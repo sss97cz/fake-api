@@ -1,0 +1,12 @@
+[
+  {
+    "id": "abc123",
+    "title": "My Test Song",
+    "content": "[Em] [G] [D] [A] ...",
+  },
+  {
+    "id": "def456",
+    "title": "Another Song",
+    "content": "[G] [D] [C ] ...",
+  }
+]
